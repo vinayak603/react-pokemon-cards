@@ -1,0 +1,14 @@
+.cards{
+  border: 2px solid black;
+  width: 170px;
+  margin: 18px;
+  text-align: center;
+  font-family: cursive;
+}
+img{
+  width: 100%;
+}
+.main{
+  display: flex;
+  flex-wrap: wrap;
+}
